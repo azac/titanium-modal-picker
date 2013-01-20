@@ -3,13 +3,11 @@ titanium-modal-picker
 
 Quick and simple modal picker for iOS Titanium.
 
-(https://raw.github.com/azac/titanium-modal-picker/master/modalpicker.png)
+[](https://raw.github.com/azac/titanium-modal-picker/master/modalpicker.png)
 
 ```JavaScript
-
 ModalPicker.text // visible content of the selected row
 ModalPicker.id   // invisible id of the selected row 
-
 ```
 
 
